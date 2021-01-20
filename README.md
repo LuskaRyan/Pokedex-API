@@ -1,1 +1,1 @@
-# pokedex
+#:dollar: pokedex
